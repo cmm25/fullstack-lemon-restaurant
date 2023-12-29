@@ -123,8 +123,8 @@ Capstone Project for the Little Lemon API using Django framework and MYSQL.
 12. **Versioning:**
     - Consider versioning your API from the beginning.
 
-Remember to keep your README updated as the project progresses and consider adding a license file.
+Made by Craig Mutegi Mutugi.
 
 © 2023 GitHub, Inc.
-```
+
 
